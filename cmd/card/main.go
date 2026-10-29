@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	const course string = "Бэкенд-разработка на языке Go"
-	var name string = "Алексей"
+	var name string = "Александр"
 	group := "ЭФБО-01-26"
 	completed := 1
 	var interes_for_backend bool = true
